@@ -1,0 +1,7 @@
+b = int(input("Entre number 1:"))
+a = int(input("Entre number 2:"))
+c = int(input("Entre number 3:"))
+d = int(input("Entre number 4:"))
+e = int(input("Entre number 5:"))
+f = int(input("Entre number 6:"))
+print("your addition is ", a+b+c+d+e+f)

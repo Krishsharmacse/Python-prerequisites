@@ -1,0 +1,70 @@
+# -----------------------------
+# Python & Virtual Environment
+# -----------------------------
+venv/
+.env/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+
+# -----------------------------
+# Jupyter & Notebook Files
+# -----------------------------
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+
+# -----------------------------
+# IDE & Editor Files
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# -----------------------------
+# OS Specific
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Logs & Caches
+# -----------------------------
+*.log
+logs/
+.cache/
+*.coverage
+coverage.xml
+.pytest_cache/
+mypy_cache/
+
+# -----------------------------
+# Project Specific (Udemy / AI)
+# -----------------------------
+checkpoints/
+runs/
+models/
+outputs/
+results/
+data/
+datasets/
+
+# -----------------------------
+# Temporary files
+# -----------------------------
+*.tmp
+*.out
+*.err
+*.old
+
+# -----------------------------
+# Ignore Udemy course folder
+# -----------------------------
+AI Course Udemy/
+Data Analytics/WELFake_Dataset.csv
+project.py/Brain Tumour Detector/backend/brain_model.h5
